@@ -1,11 +1,11 @@
-# Doctor Appointment System
+# 🩺💊 Doctor Appointment System
 
 A professional **Doctor Appointment Booking System** built with **Python**, **Tkinter GUI**, and **SQLite** database.  
 This system allows users to manage doctors, patients, and appointments easily through a clean and intuitive interface.
 
 ---
 
-## Features
+## ✅🗂️ Features
 
 - Add, view, and manage **Doctors**  
 - Add, view, and manage **Patients**  
@@ -16,7 +16,7 @@ This system allows users to manage doctors, patients, and appointments easily th
 
 ---
 
-## Project Overview
+## 📝📊 Project Overview
 
 The **Doctor Appointment System** is a desktop application that simulates a basic hospital appointment workflow.  
 
@@ -29,21 +29,22 @@ This project uses **Python’s built-in Tkinter library** for the GUI and **SQLi
 
 ---
 
-## How to Run
+## ▶️💻 How to Run
 
 1. Make sure **Python 3.x** is installed.  
 2. Open the project folder.  
 3. Run the main program
 
-## Technology Stack
+## 🖥️🗄️ Technology Stack
 
-**Python 3.x** – programming language   
-**Tkinter** – for building the GUI   
-**SQLite** – lightweight database for storing data   
-**Object-Oriented Design** – modular structure for easy maintenance
+- **Python 3.x** – programming language   
+- **Tkinter** – for building the GUI   
+- **SQLite** – lightweight database for storing data   
+- **Object-Oriented Design** – modular structure for easy maintenance
 
 -----
 
-## Author
+## 👤✍️ Author
 **Gnana Keerthana**
+
 
