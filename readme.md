@@ -33,12 +33,7 @@ This project uses **Python’s built-in Tkinter library** for the GUI and **SQLi
 
 1. Make sure **Python 3.x** is installed.  
 2. Open the project folder.  
-3. Run the main program:
-
-```bash
-python main.py
-
-----
+3. Run the main program
 
 ## Technology Stack
 
@@ -51,3 +46,4 @@ python main.py
 
 ## Author
 **Gnana Keerthana**
+
